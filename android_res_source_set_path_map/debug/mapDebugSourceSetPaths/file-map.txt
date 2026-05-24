@@ -1,0 +1,8 @@
+com.muhammad.smartbudget.app-pngs-0 C:\Users\Mohamed Alaa\AndroidStudioProjects\smartbudget\app\build\generated\res\pngs\debug
+com.muhammad.smartbudget.app-updated_navigation_xml-1 C:\Users\Mohamed Alaa\AndroidStudioProjects\smartbudget\app\build\generated\updated_navigation_xml\debug
+com.muhammad.smartbudget.app-packageDebugResources-2 C:\Users\Mohamed Alaa\AndroidStudioProjects\smartbudget\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.muhammad.smartbudget.app-packageDebugResources-3 C:\Users\Mohamed Alaa\AndroidStudioProjects\smartbudget\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.muhammad.smartbudget.app-debug-4 C:\Users\Mohamed Alaa\AndroidStudioProjects\smartbudget\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.muhammad.smartbudget.app-debug-5 C:\Users\Mohamed Alaa\AndroidStudioProjects\smartbudget\app\src\debug\res
+com.muhammad.smartbudget.app-main-6 C:\Users\Mohamed Alaa\AndroidStudioProjects\smartbudget\app\src\main\res
+gradleHome-0 C:\Users\Mohamed Alaa\.gradle
